@@ -6,8 +6,9 @@
 
 ### - coding languages i am learning : python, java and c
 
+# current projects
+#### - Carbon : A 1.12.2 crystal pvp mod
 # minecraft ign : noatmc
-
 ### - discord : stengt#6062
 
 # 😎 professional block game idiot
