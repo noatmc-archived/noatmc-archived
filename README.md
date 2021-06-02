@@ -1,7 +1,7 @@
 # hi, m8. 👋
 #### ✨ a thai python and java bad code guy
 # projects 📁
-#### - iodium : a 1.12.2 mod
+#### - iodine : a 1.12.2 mod
 #### - carbon : another 1.12.2 mod
 # contacts 🚀
 lazy to put
