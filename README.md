@@ -3,6 +3,7 @@
 # fun facts about me 🙄
 #### - python is my first coding language i know
 #### - my school teaches me code.org bullshit (🤮 yikes!)
+#### - i sometimes make website if i am bored
 # projects 📁
 #### - hckr : a phobos edit
 # contacts 🚀
