@@ -5,7 +5,7 @@
 #### - my school teaches me code.org bullshit (🤮 yikes!)
 #### - i sometimes make website if i am bored
 # projects 📁
-#### - hckr : a phobos edit
+#### - noatmc's fork of perry's phobos - a fork of perry's phobos 1.9 edit
 # contacts 🚀
 #### - discord : stengt#6062
 #### - mail : noatmc@protonmail.com
