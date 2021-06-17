@@ -1,5 +1,5 @@
 # hi, m8. 👋
-#### ✨ a thai python and java bad code guy
+#### ✨ a professioanl block game retard who have a big passion for java & python
 # fun facts about me 🙄
 #### - python is my first coding language i know
 #### - my school teaches me code.org bullshit (🤮 yikes!)
