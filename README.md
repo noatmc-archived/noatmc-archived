@@ -6,6 +6,11 @@
 #### - i sometimes make website if i am bored
 # projects 📁
 #### - noat's wp2 - edit of w+ 2
+# codeing languages i know 👨‍💻
+#### - python : currently learnring : 2 / 10
+#### - kotlin : currently learning : 0.5 / 10
+#### - java : currently learning : 1 / 10
+#### - c++ : currenty learning : 0.001 / 10
 # contacts 🚀
 #### - discord : stengt#6062
 #### - mail : noatmc@protonmail.com
