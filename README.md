@@ -6,6 +6,7 @@
 #### - i sometimes make website if i am bored
 # projects 📁
 #### - noat's wp2 - edit of w+ 2
+#### - northhack - team north client ;D
 # codeing languages i know 👨‍💻
 #### - python : currently learnring : 2 / 10
 #### - kotlin : currently learning : 0.5 / 10
