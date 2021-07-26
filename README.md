@@ -1,9 +1,10 @@
-# hi, i am noat.
-#### just some random thai guy who code for fun, and i use atom beta as my ide with any language 😎.
-# projects
-#### sexhack - cool private w+ 2 skid, work on it for about 2 months now.
-#### quantum - derpyjibs's super hot oyvey skid.
-# codeing language
-#### python - bad at this
-#### java - worse than python
-#### html / css - worst
+<div align= center>
+  <h2>hi, i am noat.</h2>
+  <h3>A thai block gamer dumb fuck trying to code in Java</h3>
+  <h2>Projects</h4>
+  <h3>carbon : shitty client</h3>
+  
+  
+  
+  
+  <h5>inspired by travis's readme
