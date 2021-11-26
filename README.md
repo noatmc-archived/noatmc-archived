@@ -1,12 +1,14 @@
-<div align= center>
-  <h2>hi, i am noat.</h2>
-  <h3>A thai block gamer dumb fuck trying to code in Java</h3>
-  <h2>Projects</h4>
-  <h3>carbon : shitty client</h3>
-  <h3>sexhack
-  <h2>currently working on</h2>
-  <h3>quantum continued</h3>
-  <h2>discord</h2>
-  <img src="https://discord.c99.nl/widget/theme-3/717237995417370624.png"></img>
-  
-  inspired by travis's readme
+# hi, i am noat
+#### - a dumbass from thailand learning how to code
+## [ stuff i have done ]
+> **Carbon**, doo doo
+
+> **SexHack**, a block game wp2 skid
+## [ stuff i am doing ] 
+> **SexHack++**, another dogshit client that i made
+
+> **Quantum Continued**, skid i made with derpyjibs
+## [ contacts ]
+- mail: noatmc@protonmail.com
+- discord: noat#8700
+#### - currently learning java, js, html & python :)
