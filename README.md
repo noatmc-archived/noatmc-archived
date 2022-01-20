@@ -1,14 +1,9 @@
-# hi, i am noat
-#### - a dumbass from thailand learning how to code
-## [ stuff i have done ]
-> **Carbon**, doo doo
-
-> **SexHack**, a block game wp2 skid
-## [ stuff i am doing ] 
-> **SexHack++**, another dogshit client that i made
-
-> **Quantum Continued**, skid i made with derpyjibs
-## [ contacts ]
-- mail: noatmc@protonmail.com
-- discord: noat#8700
-#### - currently learning java, js, html & python :)
+![image](https://user-images.githubusercontent.com/84829615/150301704-2656605f-a38b-4557-a0e9-cdb9eca10442.png)
+#### hi, i am noat
+- a thai block gamer who likes java.
+#### current projects
+- 2bot2australia - https://github.com/noatmc/2bot2australia
+- sexhack rewrite - https://github.com/noatmc/sexhack-rewrite
+#### finished projects
+- a lot
+---
