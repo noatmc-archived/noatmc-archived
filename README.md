@@ -11,6 +11,10 @@
 - lang: java
 - info: a minecraft hack client / utility mod for 1.12.2 anarchy servers
 - link: https://github.com/noatmc/sexhack-rewrite (private repo)
+##### - delta
+- lang: java
+- info: a group client made by me and the gang :)
+- link: https://github.com/noatmc/delta (private repo)
 #### finished projects
-- a lot
+- uncountable
 ---
