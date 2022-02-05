@@ -13,8 +13,8 @@
 - link: https://github.com/noatmc/sexhack-rewrite (private repo)
 ##### - delta
 - lang: java
-- info: a group client made by me and the gang :)
-- link: https://github.com/noatmc/delta (private repo)
+- info: a public hack client, used to be private :D
+- link: https://github.com/noatmc/delta
 #### finished projects
 - uncountable
 ---
