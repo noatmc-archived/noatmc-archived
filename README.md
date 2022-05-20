@@ -1,8 +1,9 @@
-#### 👋 | hey, i am noat
-- a thai java & kotlin code skidder that play minecraft
-#### :comet: | projects
-- delta : 1.12.2 mod for minecraft : https://github.com/noatmc/delta
-#### ☎️ | contacts
-- discord : noat#8700
----
-[![Discord Presence](https://lanyard.cnrad.dev/api/717237995417370624)](https://discord.com/users/717237995417370624)
+### hi, i am noat.
+- a sci-math class student who have a spot for java and kotlin
+### languages
+- java [2/5] - pretty bad
+- kt [1/5] - terrible
+### projects
+- delta+
+- 711.club
+### goodbye
