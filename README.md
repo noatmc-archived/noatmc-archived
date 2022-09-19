@@ -6,4 +6,4 @@
 ### projects
 - delta+
 - 711.club
-### goodbye
+### google logged me out of my gmail, so this account will be noatmc-archived, and my other one is going to be noatmc.
